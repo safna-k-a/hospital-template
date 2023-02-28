@@ -1,0 +1,33 @@
+/* author:safna K A*/
+.img {
+    width: 50px;
+    margin: -20px;
+}
+.row > * {
+    padding-right: 0;
+    padding-left: 0;
+}
+.card-img-top {
+    border-radius: 0;
+}
+.para {
+    background-color: #fff;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.pos {
+    position: relative;
+}
+.para {
+    position: absolute;
+    top: 330px;
+    left: -10px;
+}
+input {
+    border-radius: 5px;
+}
+
+@mediascreen and (max-width: 576px) {
+}
